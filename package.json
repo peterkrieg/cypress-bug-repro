@@ -9,8 +9,8 @@
   },
   "scripts": {
     "start": "webpack serve",
-    "cypress:component-tests": "cypress open-ct --project e2e",
-    "cypress:open": "cypress open --project e2e"
+    "cypress:component-tests": "cypress open-ct",
+    "cypress:open": "cypress open"
   },
   "devDependencies": {
     "@babel/core": "^7.13.15",
